@@ -1,5 +1,5 @@
 class Node {
-    int data;      // the data value
+    int data;      
     Node next;      // the reference to the next Node in the linked list
     // Constructors
     Node(int data1, Node next1) {
